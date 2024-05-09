@@ -1,10 +1,10 @@
 
 import './App.css';
-
+import Home from './pages/Home/Home';
 function App() {
   return (
     <div className="App">
-         我是整个页面
+        <Home></Home>
     </div>
   );
 }
